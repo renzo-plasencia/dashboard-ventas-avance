@@ -6,7 +6,9 @@ Se creo un dashboard usando Power Bi buscando conocer el avance en las ventas/co
 Esta empresa necesitaba tener un dashboard con indicadores importantes para su gestión: ratio de conversión (leads convertidos/leads totales) y ratio de monto (monto total recaudado/monto meta). Con esta información el negocio sería capaz de tomar nuevas acciones, brindar feedback inmediato, crear nuestras estrategias y proponer nuevas formas de comunicar el producto. Toda el dataset se alojaba en un sharepoint en la nube y se debía de conectar con el dashboard para obtener rápidamente actualizaciones periódicas.
 ## **Preview**
 ### Vista 1
+
 ![Frame 2](https://github.com/renzo-plasencia/dashboard-ventas-avance/assets/148007927/653001cc-6a9c-4f4d-92a5-b6ad7b7ea215)
+
 Descripción: En esta primera vista se conoce el avance por asesor en forma de ranking frente a una meta trazada. Así mismo, se observa el detalle para cada uno de ellos: leads totales gestionados, leads convertidos, % de conversión leads, monto en soles, monto en proporción frente al monto meta.
 
 ### Vista 2
